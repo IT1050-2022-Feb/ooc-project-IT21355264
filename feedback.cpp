@@ -1,7 +1,7 @@
 #include "feedback.h"
 #include <cstring>
 
-feedback::feedback() 
+feedback::feedback()   
 {
   strcpy(feedback_mzg,"");
 }
