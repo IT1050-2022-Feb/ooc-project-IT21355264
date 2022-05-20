@@ -46,8 +46,7 @@ int main()
     delete deliv;
     delete customer;
     delete pro;
-    delete pro;
-  
+   
     return 0;
 
 }
